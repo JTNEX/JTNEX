@@ -1,16 +1,22 @@
-## Hi there 👋
+## 📚 2024~2025年読書ログ
 
-<!--
-**JTNEX/JTNEX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 購入した本のうち読了したものにチェックを付けています
+### 🖥️ 技術書
+- [x] 『Clean Architecture』 - Robert C. Martin
+- [x] 『エリック・エヴァンスのドメイン駆動設計』 - フレデリック・ブルックス
+- [ ] 『システム設計の面接試験』 - アレックス・シュウ
+- [x] 『Looks Good To Me』 - AdrienneBraganza; 高田新山; 増井敏克
+- [ ] 『systemdの思想と機能』- 森若 和雄
+- [x] 『達人が教えるWebパフォーマンスチューニング』- 藤原 俊一郎; 馬場 俊彰; 中西 建登; 長野 雅広; 金子 達哉; 草野 翔
+- [ ] 『HLSL シェーダーの魔導書』- 清原 隆行
+- [x] 『体系的に学ぶ 安全なWebアプリケーションの作り方』 - 徳丸 浩
+- [x] 『Webを支える技術』 - 山本 陽平
+- [ ] 『7日間でハッキングをはじめる本 TryHackMeを使って身体で覚える攻撃手法と脆弱性』 - 野溝 のみぞう
+- [x] 『GitHub CI/CD実践ガイド』 - 野村 友規
+- [ ] 『Binary Hacks Rebooted』 - 河田 旺、小池 悠生、渡邉 慶一、佐伯 学哉、荒田 実樹　著、鈴木 創、中村 孝史、竹腰 開、光成 滋生、hikalium、浜地 慎一郎
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📖 マネジメント
+- [x] 『人が壊れるマネジメントプロジェクトを始める前に知っておきたいアンチパターン 50』 - 橋本将功
+- [x] 『システムを作らせる技術　エンジニアではないあなたへ 』 - 白川克; 濵本佳史
+- [ ] 『チームを動かすIT英語実践マニュアル』 - ラファエル・ヴィアナ
+- [x] 『図解まるわかり 要件定義のきほん』 - 西村 泰洋; 相川 正昭; 蓮沼 潤一
